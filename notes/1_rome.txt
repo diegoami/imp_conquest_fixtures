@@ -1,0 +1,11 @@
+1_rome_270_summer_7.sav : No action
+1_rome_270_summer_9.sav (missing): No action: Selecuid destroys army of Bythinia (see screenshot)
+1_rome_270_summer_11.sav (missing): No action: Carthage destroys army of Celtiberia
+1_rome_270_autumn_1.sav : Increased taxes from 366 to 488; Sidon (Seleucid) falls to Ptolemaic
+1_rome_270_autumn_3.sav: Mobilized troops. An army was refilled and another created. Both were supllied from Rome. Byblos (Seleucid) falls to Ptolemaic
+1_rome_270_autumn_5.sav: Both armies moved towards north. First army supplied from Arretum. Carthage destroys army of Celtiberia. Media wants to trade with Rome
+1_rome_270_autumn_7.sav: Both armies moved towards north.  First army takes Felsina. Modena defects to Rome. Aradus (Seleucid) falls to Ptolemaic
+1_rome_270_autumn_9.sav: 10 ships will be built in Cerae. The two armies have been reorganized. Galatia destroys army of Seleucid.
+1_rome_270_autumn_11.sav: Armies move north. One army conquers Brixia, the other one Verona. Seleucid destroys army of Ptolemaic. Ptolemaic sues Seleucid for peace, ends all agreeements, pays reparation of 2269 talents. Laranda (Seleucid) falls to Galatia.
+1_rome_270_winter_1.sav: Both armies resupply at Brixia and Verona. Macedonia forms an alliance with Illyria. Macedonia declares war on Greece. Macedonia destroys army of Greece. Greece sues Macedonia for peace, cancels agreements and pays 998 talents.
+1_rome_270_winter_3.sav: One army recruits 6438 Gallic Lit Inf very good in Felsina, for costs of 51 quarterly. The other army takes Mediolanum. Mediolanum falls to Rome. Taurasia defects from Gaul to Rome. Both armies resupply from Mediolanum and Felsina. Rome trades with Dacia. Seleucid destroys army of Galatia. Phoenice (Greece) falls to Illyria. Taurasia (Rome) falls to Gaul.
