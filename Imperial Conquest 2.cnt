@@ -1,0 +1,93 @@
+:Base Imperial Conquest 2.hlp>ProcWin
+:Title Imperial Conquest 2
+:Index Imperial Conquest=ImperialConquest.hlp
+:Link ImperialConquest.hlp
+1 Game aspects
+2 Introduction=Describe_game>ProcWin
+2 Improvements=Improvements_
+2 Cities=Cities_
+2 Armies=Armies_
+2 Fleets=Fleets_
+2 Battle=Battle_
+2 Time=Time_
+2 Victory=Victory_
+2 Fonts=Fonts_
+1 Menu Commands
+2 File
+3 New=New_game
+3 Open=Open_file
+3 Save=Save_file
+3 Save As=SaveAs_file
+2 Game
+3 End turn=End_turn
+3 New player=New_player
+3 New nation=New_nation
+3 Abdicate=Abdicate_nat
+2 Strategy
+3 News=News_last
+3 International relations=Pols
+3 Taxation=Tax
+3 Balance sheet=Balance_sheet
+3 Recruit unit=New_unit
+3 Build fleet=New_fleet
+2 Nations
+3 Nations=Nations_cur
+2 Area map
+3 Show cities=Show_cities
+3 Show capital=Show_capital
+3 Show armies=Show_armies
+3 Show fleets=Show_fleets
+3 Show all=Show_all
+3 Show mercenaries=Show_mercs
+3 Find city=Find_city
+2 Unit map
+3 Supply army=Supply_army
+3 Recruit mercenaries=Recruit_mercenaries
+3 Transfer units=Transfer_units
+3 Split army=Split_army
+3 Join armies=Join_armies
+3 Change units=Change_units
+3 Disband army=Disband_army
+3 Supply fleet=Supply_fleet
+3 Repair fleet=Repair_fleet
+3 Transfer ships=Transfer_ships
+3 Split fleet=Split_fleet
+3 Join fleets=Join_fleets
+3 Scuttle fleet=Scuttle_fleet
+3 Fortify city=Fortify_city
+3 Cancel selection=Cancel_selection
+1 Short cut keys=Short_cuts
+1 Speed buttons=Speed_buttons
+1 Area map
+2 Area map=Area_map>ProcWin
+2 Show cities=Show_cities>ProcWin
+2 Show capital=Show_capital>ProcWin
+2 Show armies=Show_armies>ProcWin
+2 Show fleets=Show_fleets>ProcWin
+2 Show all=Show_all>ProcWin
+2 Show mercenaries=Show_mercs>ProcWin
+2 Find city=Find_city>ProcWin
+1 Unit map
+2 Unit map=Unit_map>ProcWin
+2 Army actions
+3 Army move=Army_move>ProcWin
+3 Army attack=Army_attack>ProcWin
+3 Supply army=Supply_army>ProcWin
+3 Recruit mercenaries=Recruit_mercenaries>ProcWin
+3 Transfer units=Transfer_units>ProcWin
+3 Split army=Split_army>ProcWin
+3 Join armies=Join_armies>ProcWin
+3 Change units=Change_units
+3 Disband army=Disband_army>ProcWin
+2 Fleet actions
+3 Fleet move=Fleet_move>ProcWin
+3 Fleet attack=Fleet_attack>ProcWin
+3 Supply fleet=Supply_fleet>ProcWin
+3 Repair fleet=Repair_fleet>ProcWin
+3 Transfer ships=Transfer_ships>ProcWin
+3 Split fleet=Split_fleet>ProcWin
+3 Join fleets=Join_fleets>ProcWin
+3 Scuttle fleet=Scuttle_fleet>ProcWin
+2 City actions
+3 Fortify city=Fortify_city>ProcWin
+1 Cancel selection=Cancel_selection>ProcWin

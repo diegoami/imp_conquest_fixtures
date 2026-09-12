@@ -1,0 +1,6 @@
+11_supply.1.png --> Rome (101,43) (info)
+11_supply.2.png, 11_supply.3.png --> Rome (101,43) (troops being recruited)
+11_supply.4.png, 11_supply.5.png --> nations in game (left to right for colors, top to bottom for names, 0 to 15 for identifiers)
+11_supply.6.png, 11_supply.7.png --> information about nations
+11_supply.8.png --> info about army at (100,42)
+11_supply.sav - 11_ptol.sav --> Human player added as ptolemaic

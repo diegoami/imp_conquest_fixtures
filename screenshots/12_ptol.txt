@@ -1,0 +1,10 @@
+11_ptol.sav - 12_ptol.sav --> End turn, 12_ptol.1.png (Week 9)
+12_ptol.sav - 12_ptol_b.sav --> moved two Ptoleman armies closer to towns (Alexandria, Masada)
+12_ptol_2.png --> Confirming in Masada number of soldiers
+12_ptol_3.png --> Mercenaries in Alexandria.
+12_ptol_b.sav - 12_rom.sav --> Transferred 15000 soldiers from Rome to army
+12_rom_1.png, 12_rom_2.png, 12_rom_3.png --> Showing the status of Rome, army and recruited soldiers after transfer
+
+12_ptol.2.png --> that confirms that the number (49800) is the sum of the soldiers in Masada
+12_ptol.3.png --> Mercenaries at Alexandria
+12_ptol.sav - 12_ptol_b.sav --> Moved two armies of the Ptolemans closer to Masada and Alexandria.
