@@ -1,3 +1,7 @@
 
 # Bandicam recordings
 **/bandicam *.mp4
+
+# VM transfer disk (build with vm/ic2disk.py)
+vm/*.vhd
+vm/*.tmp
