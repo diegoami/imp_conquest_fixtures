@@ -1,0 +1,30 @@
+1_rome_270_winter_3.sav -- 1_rome_270_winter_5.sav
+  recording: 
+    bandicam 2026-09-12 23-56-28-394.mp4
+  events:
+    Reorganizing the two armies, preparing for battle
+    Iconium (Galatia) falls to Seleucid
+    Ambracia (Greece) falls to Illyria
+1_rome_270_winter_5.sav -- 1_rome_270_winter_7.sav
+  recording: 
+    bandicam 2026-09-13 00-04-38-377.mp4
+  events:
+    Army 2 goes back south, and supplies at Pisa
+    Army 1 moves west and suppies at Mediolanum
+    Laranda (Galatia) falls to Seleucid
+    Gordium (Galatia) falls to Seleucid
+    Synnada defects from Galatia to Seleucid
+    Acroinon defects from Galatia to Seleucid
+    Seleucid conquest Galatia
+1_rome_270_winter_7.sav -- 1_rome_270_winter_9.sav
+  recording:
+    bandicam 2026-09-13 00-31-14-131.mp4
+    bandicam 2026-09-13 00-32-26-388.mp4
+    bandicam 2026-09-13 00-35-54-640.mp4
+    bandicam 2026-09-13 01-03-29-805.mp4
+  events:
+    Rome defeats army of Gaul
+    A fleet belonging to Carhage is lost at sea
+    Naupactus (Greece) falls to Illyria
+
+
