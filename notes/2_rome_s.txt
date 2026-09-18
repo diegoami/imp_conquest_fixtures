@@ -1,0 +1,11 @@
+
+1_rome_270_winter_7.sav -- 1_rome_270_winter_7_b.sav
+  recording:
+    bandicam 2026-09-13 22-49-01-893.mp4
+  events:
+    Rome defeats army of Gaul (auto battle, complete, no freeze)
+1_rome_270_winter_7_b.sav - 1_rome_270_winter_9_b.sav
+  events:
+    Naupactus (Greece) falls to Illyria
+    Greece wants to trade with Rome
+

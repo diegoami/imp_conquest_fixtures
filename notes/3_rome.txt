@@ -1,0 +1,7 @@
+1_rome_270_winter_9_b.sav - 1_rome_270_winter_11.sav 
+  recordings:
+    bandicam 2026-09-13 23-14-41-582.mp4
+  events:
+    Moved armies back: 1 army near Arretium, the other army was split and now there are three armies total. One supplied from Mediolanum, the other from Brixia
+    Bythinia wants to trade with Rome
+1_rome_270_winter_11.sav - 1_rome_269_autumn_1.sav 
