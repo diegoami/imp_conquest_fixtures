@@ -5,3 +5,7 @@
 # VM transfer disk (build with vm/ic2disk.py)
 vm/*.vhd
 vm/*.tmp
+
+# Release-asset cache: fetched with scripts/fetch-release.sh, never committed.
+# GitHub releases are the source of truth for evidence made on another machine.
+releases/
